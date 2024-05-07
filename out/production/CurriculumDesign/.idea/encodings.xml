@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/dictionary/b.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/AvlTree/AvlNode.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/AvlTree/AvlTree.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Hash/Hash.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Hash/HashNode.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Trie/Trie.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Trie/TrieNode.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/funtion/TrieFunction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/window/BackgroundPanel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/window/DictionaryWindow.java" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
